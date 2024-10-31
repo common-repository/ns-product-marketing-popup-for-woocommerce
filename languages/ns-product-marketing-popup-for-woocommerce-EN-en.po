@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-21 12:57+0100\n"
+"PO-Revision-Date: 2019-02-21 13:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:35
+msgid "Settings"
+msgstr "Settings"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:41
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:8
+msgid "PREMIUM VERSION"
+msgstr "PREMIUM VERSION"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:11
+msgid "ALL FREE VERSION FEATURES and"
+msgstr "ALL FREE VERSION FEATURES and"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:12
+msgid "- One or more product highlights<br/>"
+msgstr "- One or more product highlights<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:13
+msgid "- Show popup at the first visit of the day<br/>"
+msgstr "- Show popup at the first visit of the day<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:14
+msgid "- Contact Form 7 ready<br/>"
+msgstr "- Contact Form 7 ready<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:15
+msgid ""
+"- Shortcode ready (you can use any shortcode also WooCommerce shortcode)<br/>"
+msgstr ""
+"- Shortcode ready (you can use any shortcode also WooCommerce shortcode)<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:16
+msgid "- Full control on popup content<br/>"
+msgstr "- Full control on popup content<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:17
+msgid "- Standard WordPress content editor<br/>"
+msgstr "- Standard WordPress content editor<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:18
+msgid "- Set a delay to start popup box<br/>"
+msgstr "- Set a delay to start popup box<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:19
+msgid "- Responsive mobile friendly popup<br/>"
+msgstr "- Responsive mobile friendly popup<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:20
+msgid "- Insert image in popup box<br/>"
+msgstr "- Insert image in popup box<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:21
+msgid "- Set cookie expire date<br/>"
+msgstr "- Set cookie expire date<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:22
+msgid "- Choose full width layer background color<br/>"
+msgstr "- Choose full width layer background color<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:23
+msgid "- Choose full width layer opacity<br/>"
+msgstr "- Choose full width layer opacity<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:24
+msgid "- Set popup background color<br/>"
+msgstr "- Set popup background color<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:25
+msgid "- Set popup border width and color<br/>"
+msgstr "- Set popup border width and color<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:26
+msgid "- Set popup content padding<br/>"
+msgstr "- Set popup content padding<br/>"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:30
+msgid "UPGRADE"
+msgstr "UPGRADE"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:8
+msgid "JOIN NS CLUB"
+msgstr "JOIN NS CLUB"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:12
+msgid "– Instant access to all plugins and all themes"
+msgstr "– Instant access to all plugins and all themes"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:13
+msgid "– All future plugins and themes are included"
+msgstr "– All future plugins and themes are included"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:14
+msgid "– Unlimited license for all NS products"
+msgstr "– Unlimited license for all NS products"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:15
+msgid "– Unlimited download for each products"
+msgstr "– Unlimited download for each products"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:16
+msgid "– Super fast support"
+msgstr "– Super fast support"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:17
+msgid "– Regular update"
+msgstr "– Regular update"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:20
+msgid "DISCOVER MORE"
+msgstr "DISCOVER MORE"
+
+#: ns-admin-options/ns_settings_custom.php:12
+msgid "IMPORTANT!"
+msgstr "IMPORTANT!"
+
+#: ns-admin-options/ns_settings_custom.php:12
+msgid ""
+"Chose one or more products edit it, go to \"product details\" -> \"Product "
+"popup\" and check \"Add product to marketing popup\""
+msgstr ""
+"Chose one or more products edit it, go to \"product details\" -> \"Product "
+"popup\" and check \"Add product to marketing popup\""
+
+#: ns-admin-options/ns_settings_custom.php:17
+msgid "Test mode"
+msgstr "Test mode"
+
+#: ns-admin-options/ns_settings_custom.php:18
+msgid "Apply test mode to view every refresh"
+msgstr "Apply test mode to view every refresh"
+
+#: ns-admin-options/ns_settings_custom.php:28
+msgid "Text Popup Box"
+msgstr "Text Popup Box"
+
+#: ns-admin-options/ns_settings_custom.php:29
+msgid "Insert text for Popup Box"
+msgstr "Insert text for Popup Box"
+
+#: ns-admin-options/ns_settings_custom.php:38
+msgid "Popup Box Delay"
+msgstr "Popup Box Delay"
+
+#: ns-admin-options/ns_settings_custom.php:39
+msgid "Insert delay of Popup Box"
+msgstr "Insert delay of Popup Box"
+
+#: ns-product-marketing-popup-for-woocommerce-add-tab.php:5
+msgid " Product popup"
+msgstr " Product popup"
+
+#: ns-product-marketing-popup-for-woocommerce-add-tab.php:23
+msgid "Add product to marketing popup?"
+msgstr "Add product to marketing popup?"
+
+#: ns-product-marketing-popup-for-woocommerce.php:142
+msgid "Premium Version"
+msgstr "Premium Version"
